@@ -3,7 +3,6 @@ certifi==2022.5.18.1
 cffi==1.15.0
 charset-normalizer==2.0.12
 colorama==0.4.4
-colorama-lpa @ file:///C:/Users/Abdul/Downloads/colorama_lpa-0.4.4b1.0-py2.py3-none-any.whl
 Contacts==1.0
 cryptography==37.0.2
 defusedxml==0.7.1
